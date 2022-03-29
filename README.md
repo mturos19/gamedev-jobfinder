@@ -1,2 +1,9 @@
 # gamedev-jobfinder
-Job finding website for game developer roles, using scraped data from gamedev jobs posting websites.
+cd into job-scraper --> run FLASK_APP=web_server flask run
+
+
+Demo pictures below
+
+![alt text](https://ibb.co/wh1dBRn)
+![alt text](https://ibb.co/XJ5DYk3)
+![alt text](https://ibb.co/FY4xtbW)
