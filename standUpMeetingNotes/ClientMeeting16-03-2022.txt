@@ -1,0 +1,9 @@
+Attendance: Ricky (rr270), Mustafa (mb842), Anas (am1205), Sam (st500), Callum (cr330)
+
+Scrum master: Ricky
+
+Meeting started 20m late (Client Missing)
+
+- Add any "extras" we think could be useful to the user.
+
+- Work on polishing it and integrate it well with the front end.

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Job Listing</title>
+</head>
+<body>
+	<ul>
+		{% for job in joblist %}
+			<li>
+                <h2>{{ job["title"] }}</h2>
+                <ul>
+                    <li>{{ job["location"] }}</li>
+                    <li>{{ job["langs"] }}</li>
+                </ul>
+            </li>
+		{% endfor %}
+	</ul>
+</body>

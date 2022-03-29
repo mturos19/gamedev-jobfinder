@@ -1,0 +1,11 @@
+Attendance: Mustafa (mb842), Ricky (rr270), Mark (mt418),  Callum (cr330)
+
+Scrum Master: Mustafa
+
+In this meeting group members discussed:
+-	Current user stories and if we need to keep them
+-	Creation of new user stories for sprint 4 (current sprint)
+-	Briefly discussed to always relate back to the definitions of done
+- 	Callum has not finished opmjobs but is quite close to
+-	All group members agree that polishing the product should be the aim for this sprint
+-	Mark communicated that the README should be much more simple, all group members present agreed.
