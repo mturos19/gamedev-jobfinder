@@ -1,9 +1,0 @@
-Attendance: Ricky (rr270), Mustafa (mb842), Anas (am1205), Mark (mt418)
-
-Scrum master: Ricky
-
-In this meeting we:
-
-- Created the demo for the last meeting tomorrow;
-- Discussed any questions to ask tomorrow during the meeting;
-- Sent the demo to the client.
